@@ -1,1 +1,2 @@
-This is from remote a
+This is from remote a --- BBB
+B
